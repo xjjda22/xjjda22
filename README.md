@@ -1,3 +1,3 @@
 <div align="center">
-	<img src="kid-goku.jpeg" width="627">
+	<img src="goku-90-anim.gif" width="627">
 </div>
